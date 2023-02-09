@@ -16,9 +16,3 @@
 | :heart: Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications   | Éléments pertinents       | 
 | :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications     | Éléments pertinents      | 
 
-**À VENIR : ÉTAPE 2 DU TRAVAIL 1A : organisation des données compilées (Répertoire GitHub) - cours 3**
-
-**IMPORTANT : l'exhaustivité des informations est un critère d'évaluation de ce travail**
- 
-### DATE DE CRÉATION : 2023-01-23 
-### DERNIÈRE MISE À JOUR : 2023-01-24
