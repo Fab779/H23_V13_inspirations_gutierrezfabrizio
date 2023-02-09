@@ -4,7 +4,7 @@
 | Lieu de mise en exposition    | <img src="MicrosoftTeams-image (24).png" width=250px heigth=250px />| 
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | Intérieur et temporaire | 
 | Date de votre visite    | 2 février 2023           | 
-| Titre de l'oeuvre  | performance robotique copacabana | 
+| Titre de l'oeuvre  | performance robotique copacabana machine sex | 
 | Nom de l'artiste    | Bill Vorn          | 
 | Année de réalisation     | 2018         | 
 | Description de l'oeuvre   | Cartel + diverses vues          | 
