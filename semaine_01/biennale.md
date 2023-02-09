@@ -9,7 +9,7 @@
 | Année de réalisation     | 2018         | 
 | Description de l'oeuvre   | <img src="MicrosoftTeams-image (25).png" width=250px heigth=250px /> <img src="MicrosoftTeams-image (26).png" width=250px heigth=250px />     <img src="MicrosoftTeams-image (27).png" width=250px heigth=250px />   | 
 | Type d'installation (contemplative, immersive, interactive) | contemplative   | 
-| Mise en espace   | Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension)        | 
+| Mise en espace   |  <img src="MicrosoftTeams-image (28).png" width=250px heigth=250px />       | 
 | Composantes et techniques     | Chacune des parties composantes de l'oeuvre (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)| 
 | Éléments nécessaires à la mise en exposition   | Chacun des éléments que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, herses...)            | 
 | Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci        | 
