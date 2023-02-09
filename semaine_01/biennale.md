@@ -10,7 +10,7 @@
 | Description de l'oeuvre   | <img src="MicrosoftTeams-image (25).png" width=250px heigth=250px /> <img src="MicrosoftTeams-image (26).png" width=250px heigth=250px />     <img src="MicrosoftTeams-image (27).png" width=250px heigth=250px />   | 
 | Type d'installation (contemplative, immersive, interactive) | contemplative   | 
 | Mise en espace   |  <img src="MicrosoftTeams-image (28).png" width=250px heigth=250px />       | 
-| Composantes et techniques     | Chacune des parties composantes de l'oeuvre (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)| 
+| Composantes et techniques     | Premièrement, les matériels utilisés par l'artiste ont été des métaux, miroirs, moteurs, éclairage LED, ordinateur, compresseur à air, audio stéréo. Deuxièmement, ses projets d'installation et de performance impliquent le contrôle du mouvement, le son, l'éclairage, la vidéo et les processus cybermétiques. 
 | Éléments nécessaires à la mise en exposition   | Chacun des éléments que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, herses...)            | 
 | Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci        | 
 | :heart: Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications   | Éléments pertinents       | 
