@@ -1,6 +1,6 @@
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
-| Nom de l'exposition ou de l'événement|<img src="img5.jpeg" width=250px heigth=250px />|
+| Nom de l'exposition ou de l'événement|<img src="expo.jpg" width=250px heigth=250px />|
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | N/A | 
 | Date de votre visite    | N/A           | 
