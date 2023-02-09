@@ -2,11 +2,11 @@
 | ---     | ---             | 
 | Nom de l'exposition ou de l'événement|<img src="expo.jpg" width=250px heigth=250px />|
 | Lieu de mise en exposition    | <img src="MicrosoftTeams-image (24).png" width=250px heigth=250px />| 
-| Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | N/A | 
-| Date de votre visite    | N/A           | 
-| Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  | 
-| Nom de l'artiste    | Cartel         | 
-| Année de réalisation     |   N/A        | 
+| Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | Intérieur et temporaire | 
+| Date de votre visite    | 2 février 2023           | 
+| Titre de l'oeuvre  | performance robotique copacabana | 
+| Nom de l'artiste    | Bill Vorn          | 
+| Année de réalisation     | 2018         | 
 | Description de l'oeuvre   | Cartel + diverses vues          | 
 | Type d'installation (contemplative, immersive, interactive) | Vue *parlante*             | 
 | Mise en espace   | Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension)        | 
