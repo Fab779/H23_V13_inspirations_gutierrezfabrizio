@@ -26,6 +26,7 @@ Bill Vorn
 2018
 
 ### Description de l'oeuvre 
+Elle est une performance robotique musicale. Sa duration est de 30 minutes et peut être jouée un total de 4 fois par jour. Les acteurs sont les propres robots
 
 <img src="Photos/bian_vue_de_gauche.png" width=400px heigth=400px /> 
 <img src="Photos/bian_vue_devant.png" width=400px heigth=400px /> 
