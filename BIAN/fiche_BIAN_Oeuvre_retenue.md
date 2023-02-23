@@ -9,3 +9,6 @@
 Arsenal art contemporain
 
 <img src="Photos/bian_devant_l'entrée.png" width=250px heigth=250px /> 
+
+### Type d'exposition
+L'exposition est intérieur et temporaire
