@@ -12,3 +12,17 @@ Arsenal art contemporain
 
 ### Type d'exposition
 L'exposition est intérieur et temporaire
+
+### Date de votre visite
+2 février 2023
+
+### Titre de l'oeuvre 
+performance robotique copacabana machine sex
+
+### Nom de l'artiste
+Bill Vorn
+
+### Année de réalisation 
+2018
+
+
