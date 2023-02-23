@@ -47,3 +47,9 @@ Des barres en métal pour pouvoir tenir l'exposition, les moniteurs de son pour 
 
 ### Expérience vécue
 https://youtube.com/shorts/XghE0QNKZtc
+
+### Ce qui m'a plu
+Ce que j'ai aimé de cette oeuvre c'est tout le matériel qui a été utilisé pour créer quelque chose de simple comme danser. Le fait d'utiliser des robots pour faire une activité très humaine comme danser nous démondre l'avancement technologique qu'on fait et en même temps ça ouvre les portes pour un futur où les robots auront plus d'importances pour les spectacles.
+
+### Aspect à ne pas retenir
+Ce que j'ai moins aimé c'est que l'oeuvre est très repetitif et après quelques minutes tu as la sensation de voir les mêmes mouvements. Aussi, les mouvements sont pas très flexibles et ne démontrent pas les capacitées que les humains par exemple pourraient avoir. Finalement je trouve que l'oeuvre est très correct, mais elle est encore trop basique pour penser à mettre des robots sur des grandes spectacles.
