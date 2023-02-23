@@ -8,4 +8,4 @@
 ### Lieu de mise en exposition
 Arsenal art contemporain
 
-<img src="Photos/bian_devant_l'entrée.jpg" width=400px heigth=400px /> 
+<img src="Photos/bian_devant_l'entrée.png" width=400px heigth=400px /> 
