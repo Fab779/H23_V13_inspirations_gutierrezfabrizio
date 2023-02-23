@@ -31,3 +31,10 @@ Elle est une performance robotique musicale. Sa duration est de 30 minutes et pe
 <img src="Photos/bian_vue_de_gauche.png" width=400px heigth=400px /> 
 <img src="Photos/bian_vue_devant.png" width=400px heigth=400px /> 
 <img src="Photos/bian_cartel.png" width=400px heigth=400px /> 
+
+### Type d'installation
+L'installation est seulement contemplative
+
+### Mise en espace
+
+<img src="Photos/bian_vue_d'ensemble.png" width=400px heigth=400px /> 
