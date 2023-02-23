@@ -38,3 +38,12 @@ L'installation est seulement contemplative
 ### Mise en espace
 
 <img src="Photos/bian_vue_d'ensemble.png" width=400px heigth=400px /> 
+
+### Composantes et techniques
+Premièrement, les matériels utilisés par l'artiste ont été des métaux, miroirs, moteurs, éclairage LED, ordinateur, compresseur à air, audio stéréo. Deuxièmement, ses projets d'installation et de performance impliquent le contrôle du mouvement, le son, l'éclairage, la vidéo et les processus cybermétiques.
+
+### Éléments nécessaires à la mise en exposition
+Des barres en métal pour pouvoir tenir l'exposition, les moniteurs de son pour pouvoir le projecter, des fils pour ne pas permettre le passages des spectateurs.
+
+### Expérience vécue
+	https://youtube.com/shorts/XghE0QNKZtc
