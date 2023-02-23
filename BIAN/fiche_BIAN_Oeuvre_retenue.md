@@ -46,4 +46,4 @@ Premièrement, les matériels utilisés par l'artiste ont été des métaux, mir
 Des barres en métal pour pouvoir tenir l'exposition, les moniteurs de son pour pouvoir le projecter, des fils pour ne pas permettre le passages des spectateurs.
 
 ### Expérience vécue
-	https://youtube.com/shorts/XghE0QNKZtc 
+	(https://youtube.com/shorts/XghE0QNKZtc) 
