@@ -27,6 +27,6 @@ Bill Vorn
 
 ### Description de l'oeuvre 
 
-<img src="Photos/bian_vue_de_gauche.png" width=250px heigth=250px /> 
-<img src="Photos/bian_devant.png" width=250px heigth=250px /> 
-<img src="Photos/bian_cartel.png" width=250px heigth=250px /> 
+<img src="Photos/bian_vue_de_gauche.png" width=400px heigth=400px /> 
+<img src="Photos/bian_vue_devant.png" width=400px heigth=400px /> 
+<img src="Photos/bian_cartel.png" width=400px heigth=400px /> 
