@@ -1,18 +1,15 @@
-|:pencil2: À noter  | :camera: À photographier | 
-| ---     | ---             | 
-| Nom de l'exposition ou de l'événement|<img src="expo.jpg" width=250px heigth=250px />|
-| Lieu de mise en exposition    | <img src="MicrosoftTeams-image (24).png" width=250px heigth=250px />| 
-| Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | Intérieur et temporaire | 
-| Date de votre visite    | 2 février 2023           | 
-| Titre de l'oeuvre  | performance robotique copacabana machine sex | 
-| Nom de l'artiste    | Bill Vorn          | 
-| Année de réalisation     | 2018         | 
-| Description de l'oeuvre   | <img src="MicrosoftTeams-image (25).png" width=250px heigth=250px /> <img src="MicrosoftTeams-image (26).png" width=250px heigth=250px />     <img src="MicrosoftTeams-image (27).png" width=250px heigth=250px />   | 
-| Type d'installation (contemplative, immersive, interactive) | contemplative   | 
-| Mise en espace   |  <img src="MicrosoftTeams-image (28).png" width=250px heigth=250px />       | 
-| Composantes et techniques     | Premièrement, les matériels utilisés par l'artiste ont été des métaux, miroirs, moteurs, éclairage LED, ordinateur, compresseur à air, audio stéréo. Deuxièmement, ses projets d'installation et de performance impliquent le contrôle du mouvement, le son, l'éclairage, la vidéo et les processus cybermétiques. 
-| Éléments nécessaires à la mise en exposition   | Des barres en métal pour pouvoir tenir l'exposition, les moniteurs de son pour pouvoir le projecter, des fils pour ne pas permettre le passages des spectateurs.
-| Expérience vécue     | https://youtube.com/shorts/XghE0QNKZtc  | 
-| :heart: Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications   | Ce que j'ai aimé de cette oeuvre c'est tout le matériel qui a été utilisé pour créer quelque chose de simple comme danser. Le fait d'utiliser des robots pour faire une activité très humaine comme danser nous démondre l'avancement technologique qu'on fait et en même temps ça ouvre les portes pour un futur où les robots auront plus d'importances pour les spectacles.       | 
-| :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications     |Ce que j'ai moins aimé c'est que l'oeuvre est très repetitif et après quelques minutes tu as la sensation de voir les mêmes mouvements. Aussi, les mouvements sont pas très flexibles et ne démontrent pas les capacitées que les humains par exemple pourraient avoir. Finalement je trouve que l'oeuvre est très correct, mais elle est encore trop basique pour penser à mettre des robots sur des grandes spectacles.     | 
-
+| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
+| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
+| Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | N/A | 
+| Date de votre visite    | N/A           | 
+| Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  | 
+| Nom de l'artiste    | Cartel         | 
+| Année de réalisation     |   N/A        | 
+| Description de l'oeuvre   | Cartel + diverses vues          | 
+| Type d'installation (contemplative, immersive, interactive) | Vue *parlante*             | 
+| Mise en espace   | Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension)        | 
+| Composantes et techniques     | Chacune des parties composantes de l'oeuvre (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)| 
+| Éléments nécessaires à la mise en exposition   | Chacun des éléments que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, herses...)            | 
+| Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci        | 
+| :heart: Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications   | Éléments pertinents       | 
+| :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications     | Éléments pertinents      | 
