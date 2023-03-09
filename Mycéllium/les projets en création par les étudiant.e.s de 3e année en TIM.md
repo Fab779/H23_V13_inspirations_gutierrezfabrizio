@@ -15,3 +15,5 @@
 ## Lien avec le thème mycéllium
 
 ## Installation du projet
+
+## le schéma de l'installation
