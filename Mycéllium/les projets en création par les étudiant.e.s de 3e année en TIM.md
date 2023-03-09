@@ -2,4 +2,4 @@
 
 ## 1. ENTRE FUNGUS
 
-<img src="photos/mycellium_fungus.png" width=400px heigth=400px />
+<img src="photos/mycellium_fungus.png" width=800px heigth=800px />
