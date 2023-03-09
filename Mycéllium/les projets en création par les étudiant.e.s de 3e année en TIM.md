@@ -6,4 +6,8 @@
 
 ## Nom étudiants
 - Elwin Durand
-- 
+- Loic Delorme
+- Dominic Roberts
+- Gabriel Leblanc
+- Meryem Berbiche
+- Jean-Christophe
