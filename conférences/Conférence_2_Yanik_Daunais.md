@@ -1,1 +1,7 @@
+Yanik Daunais travaille pour la compagnie Halo création. Ils créent des expériences fusionnant l'humanité et technologie, qui touchent le coeur et l'intelligence. La conférence nous explique comment on doit procèder pour la création d'une oeuvre étape par étape.
+
+Premièrement, il parle des objectifs, des axes, des plan de contenu, et des ressources. il parle aussi de la trame narrative et le mode. Soit intéractive, immersive, realité virtuelle. Le temps, car on doit savoir si l'oeuvre sera temporaire ou permanent, la durabilité ou l'éco-responsable. Il parle aussi de l'aspect technique et technologiques comme le son, l'image, la proyection, la lumière, les object connectés ou la complexité de l'installation. Durant la conférence, il nous apprends aussi sur l'installation et l'intégration comme l'importance de l'éléctricité, l'operation d'equipement, les règles de santé et de sécurité au travail et surtout documenter chaque étape du proccès. Pour ça, il y a le manuel d'opération qui donne le contact en cas d'urgence, le délai de réponse et comment entretenir les equipements. Yanik Daunais nous parle aussi du budget, d'optimiser le temps et les ressources. Aussi, d'avoir une marge de manoeuvre à cause des imprevues. Finalement, il parle d'être conscient à quel type de public on s'adresse soit public, général, courieux ou jeunesse.
+
+J'ai beaucoup apprecié la conférence, car ça m'a aidé à comprendre plusieurs choses par rapport à un bon travail en équipe.
+
 
