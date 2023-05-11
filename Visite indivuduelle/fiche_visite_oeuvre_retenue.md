@@ -43,3 +43,20 @@
 <img src="photos/travail_c_presentation_orale_mur.png" width=400px heigth=400px />
 <img src="photos/travail_c_presentation_orale_lit.png" width=400px heigth=400px />
 
+### Composantes et techniques
+
+- Des fils pour les écrans
+- Des fils pour la radio 
+- Des haut parleurs
+
+### Expérience vécue
+
+- Mon expérience n'a pas été très bonne, car l'oeuvre n'avait aucune intéraction et rien était expliqué. Aussi les salles n'avaient pas un lien entre elle donc ça donnais beaucoup de confusion et je finissais par tourner en rond.
+
+### Ce que j'ai aimé
+
+- J'ai aimé le sujet de la présentation, car ça nous donne un certain point de vue des autochtones nordiques.
+
+### Ce que j'ai moins apprécié
+
+- J'ai pas aimé que l'oeuvre entière soit juste contemplative et qu'il n'a pas eu une seule vrai interaction
