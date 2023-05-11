@@ -41,4 +41,5 @@
 <img src="photos/travail_c_presentation_orale_femmes.png" width=400px heigth=400px />
 <img src="photos/travail_c_presentation_orale_cadre.png" width=400px heigth=400px />
 <img src="photos/travail_c_presentation_orale_mur.png" width=400px heigth=400px />
+<img src="photos/travail_c_presentation_orale_lit.png" width=400px heigth=400px />
 
