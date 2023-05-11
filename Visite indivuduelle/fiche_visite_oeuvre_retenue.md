@@ -30,7 +30,15 @@
 <img src="photos/travail_c_presentation_orale_tente.png" width=400px heigth=400px />
 <img src="photos/travail_c_presentation_orale_pierre.png" width=400px heigth=400px />
 
+### Type d'installation
 
+- L'installation est contemplative 
+
+### Mise en espace
+
+- Il y a plusieurs salles au deuxième étage avec des differents oeuvres qui sont présentées de manières différentes accompagnées des textes donnant des explications 
 <img src="photos/travail_c_presentation_orale_chaise.png" width=400px heigth=400px />
-
+<img src="photos/travail_c_presentation_orale_femmes.png" width=400px heigth=400px />
+<img src="photos/travail_c_presentation_orale_cadre.png" width=400px heigth=400px />
+<img src="photos/travail_c_presentation_orale_mur.png" width=400px heigth=400px />
 
