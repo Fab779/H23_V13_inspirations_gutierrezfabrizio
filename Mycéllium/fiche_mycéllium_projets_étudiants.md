@@ -108,6 +108,29 @@ logiciel professionnel de modélisation
 
 <img src="photos/mycellium_nexum.png" width=800px heigth=800px />
 
+## Nom étudiants
+- Sébastien Reilly
+- Sabrina Laforest
+- Alexandre Daniel
+- Maxime Des Lauriers
+
+[Production](https://github.com/Boucle-RDDL/Nexum/tree/main/docs/preproduction)
+
+## 4.1 cours du programme sont nécessaires pour créer ce gerne de projet
+
+- Installation multimédia
+- Interactivité ludique
+- Traitement audiovisuel
+
+## 3.2 technique* ou une composante technologique
+
+- QLC+
+
+
+
+
+
+
 
 
 
