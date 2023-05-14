@@ -58,7 +58,17 @@ MadMapper est une technologie multimédia permettant de projeter de la lumière 
 
 - Reaper
 
+Logiciel sonore pour créer des effets et enregistrer des sons
+
 <img src="photos/mycellium_reaper.png" width=800px heigth=800px />
+
+## 2.3 Préférence actuelle
+
+- J'aime beaucoup le sujet du projet, car j'aime les animaux et la manière dans laquelle ils les montrent c'est vrsiment intéressant. En plus ils donnent les descriptions de chaque animaux.
+
+## 2.4 Ressentiment vers l'expérimentation de l'installation
+
+- Je pense que même si le projet est seulement contemplative, ça va être tr5ès intéressant d'aller le régarder et s'inmerser avec les effets sonores.
 
 
 
