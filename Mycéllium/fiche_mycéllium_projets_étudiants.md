@@ -14,4 +14,8 @@
 
 [Production](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#cartographie)
 
-## 3 cours du programme sont nécessaires pour créer ce gerne de projet
+## 2. cours du programme sont nécessaires pour créer ce gerne de projet
+
+- Conception d’une expérience multimédia
+- Installation multimédia
+- Modélisation 3D
