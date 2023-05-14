@@ -14,13 +14,13 @@
 
 [Production](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#cartographie)
 
-## 2. cours du programme sont nécessaires pour créer ce gerne de projet
+## 1.1 cours du programme sont nécessaires pour créer ce gerne de projet
 
 - Conception d’une expérience multimédia
 - Installation multimédia
 - Modélisation 3D
 
-## technique* ou une composante technologique
+## 1.2 technique* ou une composante technologique
 
 - MadMapper
 
@@ -28,10 +28,10 @@ MadMapper est une technologie multimédia permettant de projeter de la lumière 
 
 <img src="photos/mycellium_madmapper.png" width=800px heigth=800px />
 
-## Préférence actuelle
+## 1.3 Préférence actuelle
 
 - J'ai aimé beaucoup ce projet et je le met en première place, car je trouve que c'est le projet le plus compliqué. J'ai aimé aussi la manière dont le projet à été expliqué et je trouve qu'ils étaient plus avancés que les autres.
 
-## Ressentiment vers l'expérimentation de l'installation
+## 1.4 Ressentiment vers l'expérimentation de l'installation
 
 - Je pense qu'avec la grandeur des structures et les sons qu'ils vont produire lors de l'interactivité vont être impresionant et ça va être vraiment attirant pour tout les gens qui vont passer proche de la structure.
