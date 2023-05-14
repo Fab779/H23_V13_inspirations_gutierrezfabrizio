@@ -72,6 +72,8 @@ Logiciel sonore pour créer des effets et enregistrer des sons
 
 ## 3. Lumasol
 
+<img src="photos/mycellium_lumasol.png" width=800px heigth=800px />
+
 
 
 
