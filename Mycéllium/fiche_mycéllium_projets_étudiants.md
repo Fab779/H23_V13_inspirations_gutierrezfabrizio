@@ -96,6 +96,9 @@ logiciel professionnel de modélisation
 
 <img src="photos/mycellium_max.png" width=800px heigth=800px />
 
+## 2.3 Préférence actuelle
+
+- J'aime les élements utilisés pour les projte, comme le vélo ou l'arbre, qui lui donnent un aspect créative, mais le problème que je vois c'est qu'il y a juste une personne qui peut l'utiliser. Donc, ça va empêcher le fait d'avoir un grand rassemblement des gens.
 
 
 
