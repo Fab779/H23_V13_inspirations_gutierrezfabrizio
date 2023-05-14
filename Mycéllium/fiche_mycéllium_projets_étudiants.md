@@ -100,6 +100,9 @@ logiciel professionnel de modélisation
 
 - J'aime les élements utilisés pour les projte, comme le vélo ou l'arbre, qui lui donnent un aspect créative, mais le problème que je vois c'est qu'il y a juste une personne qui peut l'utiliser. Donc, ça va empêcher le fait d'avoir un grand rassemblement des gens.
 
+## 2.4 Ressentiment vers l'expérimentation de l'installation
+
+- Je pense que ça va être très attirant de voir l'arbre s'illuminer au moment que la personne va pédaler
 
 
 
