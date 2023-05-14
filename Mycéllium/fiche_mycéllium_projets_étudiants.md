@@ -36,5 +36,27 @@ MadMapper est une technologie multimédia permettant de projeter de la lumière 
 
 - Je pense qu'avec la grandeur des structures et les sons qu'ils vont produire lors de l'interactivité vont être impresionant et ça va être vraiment attirant pour tout les gens qui vont passer proche de la structure.
 
-## 1. Echomarine
+## 2. Echomarine
+
+<img src="photos/mycellium_echomarine.png" width=800px heigth=800px />
+
+## Nom étudiants
+- Florence Lapierre
+- Natacha Abdallah
+- Tracy Gua
+- Maria Laura Coronel
+
+[Production](https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction)
+
+## 2.1 cours du programme sont nécessaires pour créer ce gerne de projet
+
+- Animation 2D
+- Audio 2
+- Conception d’une expérience multimédia
+
+## 2.2 technique* ou une composante technologique
+
+- Reaper
+
+
 
