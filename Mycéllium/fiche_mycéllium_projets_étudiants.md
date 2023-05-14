@@ -122,11 +122,25 @@ logiciel professionnel de modélisation
 - Interactivité ludique
 - Traitement audiovisuel
 
-## 3.2 technique* ou une composante technologique
+## 4.2 technique* ou une composante technologique
 
 - QLC+
 
+logiciel pour contrôler les systèmes d'éclairage DMX
+
 <img src="photos/mycellium_qlc.png" width=800px heigth=800px />
+
+## 4.3 Préférence actuelle
+
+- Pour ce projet, je trouve qu'il est souvent utilisé dans le multimédia, même à ça, je pense que les gens vont être intrigués pour suivre les lumières
+
+## 4.4 Ressentiment vers l'expérimentation de l'installation
+
+- Je pense que ça va être amusant de jouer avec les capteurs pour voir à quel moment ils vont te détecter.
+
+
+
+
 
 
 
