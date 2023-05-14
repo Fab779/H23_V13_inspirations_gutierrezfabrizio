@@ -12,6 +12,6 @@
 - Meryem Berbiche
 - Jean-Christophe
 
-[Plan détaillé](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#cartographie)
+[Production](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#cartographie)
 
 ## 3 cours du programme sont nécessaires pour créer ce gerne de projet
