@@ -70,6 +70,10 @@ Logiciel sonore pour créer des effets et enregistrer des sons
 
 - Je pense que même si le projet est seulement contemplative, ça va être tr5ès intéressant d'aller le régarder et s'inmerser avec les effets sonores.
 
+## 3. Lumasol
+
+
+
 
 
 
