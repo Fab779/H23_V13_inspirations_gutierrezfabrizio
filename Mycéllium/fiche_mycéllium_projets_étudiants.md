@@ -58,7 +58,6 @@ MadMapper est une technologie multimédia permettant de projeter de la lumière 
 
 - Reaper
 
-<img src="photos/mycellium_reaper.png" width=800px heigth=800px />
 
 
 
