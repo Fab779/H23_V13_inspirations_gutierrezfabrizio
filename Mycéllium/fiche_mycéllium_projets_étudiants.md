@@ -12,10 +12,6 @@
 - Meryem Berbiche
 - Jean-Christophe
 
-## Lien avec le thème mycéllium
-
-## Installation du projet
-
-## le schéma de l'installation
+[Plan détaillé](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#cartographie)
 
 ## 3 cours du programme sont nécessaires pour créer ce gerne de projet
