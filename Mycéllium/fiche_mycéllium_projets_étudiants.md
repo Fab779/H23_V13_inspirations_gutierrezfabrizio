@@ -94,6 +94,8 @@ Logiciel sonore pour créer des effets et enregistrer des sons
 
 logiciel professionnel de modélisation
 
+<img src="photos/mycellium_max.png" width=800px heigth=800px />
+
 
 
 
