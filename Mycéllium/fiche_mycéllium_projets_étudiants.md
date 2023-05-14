@@ -74,6 +74,28 @@ Logiciel sonore pour créer des effets et enregistrer des sons
 
 <img src="photos/mycellium_lumasol.png" width=800px heigth=800px />
 
+## Nom étudiants
+- Éloïse Gagné
+- Skayla Stimphil
+- Michaël Simard
+- Pénélope Morrisson
+
+[Production](https://github.com/Kawabongaaa/LumaSol/tree/main/docs/preproduction#Cartographie-et-Ressources-spatiales-requises-(rangement-et-locaux))
+
+## 3.1 cours du programme sont nécessaires pour créer ce gerne de projet
+
+- Installation multimédia
+- Traitement audiovisuel
+- Objets interactifs
+
+## 2.2 technique* ou une composante technologique
+
+- 3ds Max
+
+logiciel professionnel de modélisation
+
+
+
 
 
 
