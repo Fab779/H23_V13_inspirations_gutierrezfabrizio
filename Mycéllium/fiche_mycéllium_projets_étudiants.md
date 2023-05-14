@@ -27,3 +27,11 @@
 MadMapper est une technologie multimédia permettant de projeter de la lumière ou des vidéos sur des volumes
 
 <img src="photos/mycellium_madmapper.png" width=800px heigth=800px />
+
+## Préférence actuelle
+
+- J'ai aimé beaucoup ce projet et je le met en première place, car je trouve que c'est le projet le plus compliqué. J'ai aimé aussi la manière dont le projet à été expliqué et je trouve qu'ils étaient plus avancés que les autres.
+
+## Ressentiment vers l'expérimentation de l'installation
+
+- Je pense qu'avec la grandeur des structures et les sons qu'ils vont produire lors de l'interactivité vont être impresionant et ça va être vraiment attirant pour tout les gens qui vont passer proche de la structure.
